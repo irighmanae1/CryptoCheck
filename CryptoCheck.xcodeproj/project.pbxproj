@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30936DB22DEA58F900FE2D2A /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30936DB12DEA58F900FE2D2A /* HomeViewModel.swift */; };
 		30DD7FD32DE8F65D00FC8945 /* CryptoCheckApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DD7FD22DE8F65D00FC8945 /* CryptoCheckApp.swift */; };
 		30DD7FD52DE8F65D00FC8945 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30DD7FD42DE8F65D00FC8945 /* ContentView.swift */; };
 		30DD7FDA2DE8F66200FC8945 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30DD7FD92DE8F66200FC8945 /* Preview Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		30936DB12DEA58F900FE2D2A /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		30DD7FCF2DE8F65D00FC8945 /* CryptoCheck.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptoCheck.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30DD7FD22DE8F65D00FC8945 /* CryptoCheckApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoCheckApp.swift; sourceTree = "<group>"; };
 		30DD7FD42DE8F65D00FC8945 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 		30DD7FEA2DE8FDA400FC8945 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				30936DB12DEA58F900FE2D2A /* HomeViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30DD7FF72DE924E700FC8945 /* CoinRowView.swift in Sources */,
+				30936DB22DEA58F900FE2D2A /* HomeViewModel.swift in Sources */,
 				30DD7FD52DE8F65D00FC8945 /* ContentView.swift in Sources */,
 				30DD7FEC2DE8FDFB00FC8945 /* HomeView.swift in Sources */,
 				30DD7FD32DE8F65D00FC8945 /* CryptoCheckApp.swift in Sources */,
