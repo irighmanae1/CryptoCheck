@@ -13,6 +13,7 @@
 		304692792DECCF75004BCAC2 /* LocalFileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304692782DECCF75004BCAC2 /* LocalFileManager.swift */; };
 		3046927D2DED0464004BCAC2 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3046927C2DED0464004BCAC2 /* SearchBarView.swift */; };
 		3046927F2DED0C96004BCAC2 /* UIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3046927E2DED0C96004BCAC2 /* UIApplication.swift */; };
+		306A615F2DF0C74C00C06F68 /* MarketData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 306A615E2DF0C74C00C06F68 /* MarketData.swift */; };
 		307318162DED3360005769F0 /* Statistic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307318152DED3360005769F0 /* Statistic.swift */; };
 		307318182DED386E005769F0 /* StatisticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307318172DED386E005769F0 /* StatisticView.swift */; };
 		3073181A2DED40C8005769F0 /* HomeStatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307318192DED40C8005769F0 /* HomeStatsView.swift */; };
@@ -40,6 +41,7 @@
 		304692782DECCF75004BCAC2 /* LocalFileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFileManager.swift; sourceTree = "<group>"; };
 		3046927C2DED0464004BCAC2 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
 		3046927E2DED0C96004BCAC2 /* UIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIApplication.swift; sourceTree = "<group>"; };
+		306A615E2DF0C74C00C06F68 /* MarketData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketData.swift; sourceTree = "<group>"; };
 		307318152DED3360005769F0 /* Statistic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Statistic.swift; sourceTree = "<group>"; };
 		307318172DED386E005769F0 /* StatisticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticView.swift; sourceTree = "<group>"; };
 		307318192DED40C8005769F0 /* HomeStatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeStatsView.swift; sourceTree = "<group>"; };
@@ -211,6 +213,7 @@
 			children = (
 				30DD7FF42DE90E1F00FC8945 /* Coin.swift */,
 				307318152DED3360005769F0 /* Statistic.swift */,
+				306A615E2DF0C74C00C06F68 /* MarketData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				30936DB52DEA639C00FE2D2A /* CoinDataService.swift in Sources */,
 				30DD7FF72DE924E700FC8945 /* CoinRowView.swift in Sources */,
 				30936DB22DEA58F900FE2D2A /* HomeViewModel.swift in Sources */,
+				306A615F2DF0C74C00C06F68 /* MarketData.swift in Sources */,
 				30DD7FD52DE8F65D00FC8945 /* ContentView.swift in Sources */,
 				30DD7FEC2DE8FDFB00FC8945 /* HomeView.swift in Sources */,
 				304692712DECB166004BCAC2 /* CoinImageView.swift in Sources */,
